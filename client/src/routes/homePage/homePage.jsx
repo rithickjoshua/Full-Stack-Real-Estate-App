@@ -13,19 +13,19 @@ function HomePage() {
         <div className="wrapper">
           <h1 className="title">Find Real Estate & Get Your Dream Place</h1>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos
-            explicabo suscipit cum eius, iure est nulla animi consequatur
-            facilis id pariatur fugit quos laudantium temporibus dolor ea
-            repellat provident impedit!
+          Welcome to VistaVilla, your premier destination for finding your dream home.
+          Our website offers a comprehensive listing of properties complete with high-quality images, detailed descriptions, 
+          and up-to-date market information. 
+          You can <b>Buy</b>, <b> Sell</b>,and <b> Rent </b> houses with VistaVilla.
           </p>
           <SearchBar />
           <div className="boxes">
             <div className="box">
-              <h1>16+</h1>
+              <h1>10+</h1>
               <h2>Years of Experience</h2>
             </div>
             <div className="box">
-              <h1>200</h1>
+              <h1>150</h1>
               <h2>Award Gained</h2>
             </div>
             <div className="box">
